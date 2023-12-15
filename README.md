@@ -2,6 +2,8 @@
 
 Enjoy a classic game of Tic Tac Toe! This simple web-based game is built using HTML, JavaScript, and CSS to bring you a fun and interactive experience.
 
+<hr>
+
 ## How to Play
 
 1. **Open the Game:**
@@ -22,6 +24,9 @@ Enjoy a classic game of Tic Tac Toe! This simple web-based game is built using H
 
 6. **Reset the Game:**
    - Click "New Game" to reset the board and start a new game.
+
+<hr>
+
 
 ## Technologies Used
 
